@@ -1,0 +1,180 @@
+html{
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+
+.row {
+     width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.section-A {
+    margin-top: 30px;
+}
+
+.container-man {
+    margin-top: 80px;
+}
+
+.sec-a, .sec-a:hover {
+     color: rgb(226, 106, 31);
+    text-decoration: none;
+    font-family:monospace;
+    margin-right: 5px;
+}
+.sec-b, .sec-b:hover {
+     color: rgb(226, 106, 31);
+    text-decoration: none;
+    font-family: monospace;
+    margin-right: 5px
+}
+.sec-c, .sec-c:hover {
+     color: rgb(226, 106, 31);
+    text-decoration: none;
+    font-family: monospace;
+}
+
+.card-text1{
+    color: yellow;
+    font-size:30px;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+
+/*--------------------------------*/
+        section-D
+/*--------------------------------*/
+.card-text2{
+   color:white;
+    font-family: monospace;
+    text-align:left;
+    margin-left: 10px;
+
+    
+}
+
+.chain{
+    margin-left: 10px;
+    height: 50px;
+    width: 60px;
+    float: left;
+    border-radius: 50px;
+   
+}
+.text3{
+    position: absolute;
+    top: 50%; left: 40%;
+    transform: translate(-60%, -70%);
+  
+}
+
+.author{
+    float: left;
+/*    margin-left: 10px;*/
+    color: white;
+    font-family:cursive;
+}
+
+/*-------------------------------------*/
+
+.card-img-top{
+    height: 150px;
+    width: 180px;
+    margin-left: 16px;
+    border-radius: 15px;
+}
+
+.text{
+  margin-left: 22px;
+  font-family: cursive;
+}
+
+.tag{
+    margin-left: 22px;
+    margin-top: 3%;
+    font-size: 20px;
+    color: green;
+    font-family: monospace;
+    margin-bottom: px;
+}
+.writer{
+    margin-left: 18px;
+    font-size: 15px;
+    color: darkolivegreen;
+    font-family: cursive;
+}
+   
+.date{
+     margin-left: 18px;
+    font-size: 15px;
+    color: darkolivegreen;
+    font-family: cursive;
+    margin-left: 11%;
+
+}
+
+h2{
+   font-family: cursive; 
+    color:darkblue;
+    font-size: 18px;
+}
+
+h3{
+   font-family: cursive; 
+    color:darkblue;
+    font-size: 25px;
+}
+
+.dates a{
+  text-decoration: none;
+  text-decoration: underline;
+  list-style: none;
+  color: green;
+  font-family: monospace;
+  font-size: 15px;
+    
+}
+.dates {
+  text-decoration: none;
+  text-decoration: underline;
+  list-style: none;
+  color: green;
+}
+.cate a{
+  text-decoration: none;
+  text-decoration: underline;
+  list-style: none;
+  color: gray;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.cate{
+  text-decoration: underline;
+  list-style: none;
+}
+
+.footer{
+
+    list-style: none;
+}
+
+.footer a{
+  text-decoration: none;
+  list-style: none;
+  color: green;
+  font-family: monospace;
+  font-size: 15px;
+  margin-left: -16%;
+}
+
+.section-F {
+    background-color: rgba(220, 220, 220, 0.38);
+    border-top: 2px solid rgba(244, 22, 22, 0.12);
+    border-radius: 2%;
+}
